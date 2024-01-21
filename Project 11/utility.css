@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #ffffff;
+}
+/* Flex Classes Start  */
+.d-flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+.center{
+    align-items: center;
+}
+/* Flex Classes End */
+
+/* Backgorund Classes Start  */
+.transparent{
+    background-color: transparent;
+}
+.bg-light{
+    background-color: #ffffff;
+}
+.bg-dark{
+    background-color: #000000;
+}
+.bg-grey{
+    background-color: rgba(255, 255, 255, 0.06);;
+}
+/* Backgorund Classes End  */
